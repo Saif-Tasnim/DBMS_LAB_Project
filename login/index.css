@@ -1,0 +1,219 @@
+*{
+    font-family: monospace;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+    max-width: 100%;
+    max-height: 850px;
+    background-image: url('294558727_1784637781868698_8880204775555930428_n%20(1).jpg');
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+
+}
+
+.bg{
+ /*   background-image: url('UIU-Campus-6.jpg.crdownload');
+    background-size: cover;
+    height: 700px;
+    width: 100%;  */
+}
+
+
+.container{
+    margin-top: 90px;
+    position: absolute;
+    box-sizing: border-box;
+    margin-right: -80px;
+    
+}
+
+.left {
+    background-color: #F68B20;
+    width: 450px;
+    height: 350px;
+    margin-top: 180px;
+    margin-left: 270px;
+    border: 1px solid,orange ;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float: left;
+}
+
+
+
+h1 {
+    margin-top: 50px;
+    margin-left: 10px;
+    font-family: monospace;
+    font-size: 40px;
+    padding: 5px;
+    color: white;
+   
+}
+
+.er{
+    margin-top: 150px;
+    margin-left: 5px;
+    font-family: monospace;
+    font-size: 16px;
+    padding: 5px;
+    color: aliceblue;
+    position: absolute;
+    margin-left: 320px;
+    font-weight: bold;
+}
+
+
+#hr {
+    width: 250px;
+    border: 0.1px solid white;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+p {
+    display: inline;
+    margin-left: 10px;
+    padding-top: 10px; 
+
+}
+
+#p1 {
+color: white;
+font-size: 20px; 
+}
+
+#p2 {
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+    padding-top: 10px;
+
+}
+
+#guest{
+    margin-top: 30px;
+    background-color: lightgray;
+    margin-left: 10px;
+    padding: 8px;
+    border: 1px solid gray;
+    font-size: 15px;
+    
+}
+
+#guest:hover{
+    background-color: darkgray;
+    
+}
+           
+#button_guest{
+   color: black;
+    text-decoration: none;
+    padding: 15px; 
+}
+
+.left::after{
+    clear: both;
+    content: " ";
+    
+}
+
+.right {
+    background-color:white;
+    width: 330px;
+    height: 350px;
+    margin-top: 180px;
+    margin-left: -140 px;
+    border: 1px solid,orange ;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: left;
+    position: relative;
+}
+
+h2{
+    padding-left: 18px;
+    margin-top: 20px;
+    padding-top: 20px;
+    font-size: 24px;
+    
+}
+
+.text1{
+   
+}
+
+form{
+   padding-left: 18px;
+    padding-top: 8px; 
+    display: inline-block;
+}
+
+input[type = "text"]{
+    padding: 10px;
+    font-size: 18px;
+    width: 275px;
+
+}
+
+input[type = "password"]{
+    padding: 10px;
+    font-size: 18px;
+    width: 275px;
+
+}
+
+button{
+  margin-top: 10px;
+    display: block;
+    padding: 10px;
+   
+}
+
+#main{
+    font-size: 18px;
+    width: 268px;
+    height: 38px;
+    background-color:#F68B20;
+    color: black;
+    border:none;
+    text-decoration: none;
+}
+
+#main:hover{
+   
+    width: 268px;
+    height: 38px;
+    background-color:#F68B20;
+    border:none;
+    color: white;
+    cursor:pointer;
+    transition-delay: 0.2s;
+    font-size: 20px;
+   
+   
+}
+
+#s1{
+    text-decoration: none;
+   
+}
+
+#last_a{
+font-size: 18px;
+color: #F68B20;
+text-decoration: none;
+}
+
+#last_a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    opacity: 0.7;
+}
+
+
+

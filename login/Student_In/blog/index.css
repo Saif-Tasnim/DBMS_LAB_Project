@@ -1,0 +1,78 @@
+.head {
+    box-sizing: border-box;
+    height: 85px;
+    border: 1px solid white;
+    background-color: white;
+    margin: 0;
+
+}
+
+
+img {
+    width: 321px;
+    height: 73px;
+}
+
+
+
+#a1 {
+
+    margin: 10px auto;
+    margin-left: 40px;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 22px;
+    color: #F68B20;
+}
+
+#a2 {
+
+
+    margin: 10px auto;
+    margin-left: 30px;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 22px;
+    color: #F68B20;
+}
+
+.container mt-5{
+    background-color: aliceblue;
+}
+
+    
+ footer{
+     margin-top: 450px;
+    margin-right: 20px;
+    height: 100px;
+    width: 100%;
+   
+    
+}
+.bg-light text-center text-lg-start{
+  background-color: black;
+}
+
+.text{
+    text-align: center;
+     width: 100%;
+}
+.f{
+    
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+
+
+.text-dark{
+
+   
+    font-size: 18px;
+    color:  #F68B20;
+    font-style: italic;
+    
+}

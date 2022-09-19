@@ -1,0 +1,30 @@
+body{
+    
+    background-image: url("UIU-Campus-4.jpg");
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.container{
+    margin-top: 100px;
+    margin-left: 800px;
+  
+    height: 240px;
+    width: 450px; 
+    padding: 20px;
+    margin-left:500px  ;
+    margin-top: 30px;
+    position: absolute;
+   
+   
+}
+
+.write{
+    text-align: center;
+    color:seagreen;
+    font-weight: bolder;
+    padding: 5px;
+}
+
